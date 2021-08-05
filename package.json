@@ -1,6 +1,6 @@
 {
   "name": "onlyoneaman-portfolio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hi, This is Aman!",
   "license": "MIT",
   "scripts": {
@@ -15,10 +15,9 @@
   },
   "keywords": [
     "gatsby",
-    "starter",
-    "contentful",
-    "PWA",
-    "portfolio"
+    "portfolio",
+    "onlyoneaman",
+    "aman"
   ],
   "author": "Aman Kumar",
   "bugs": {

@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-mate",
-  "version": "0.0.0",
-  "description": "An accessible and fast portfolio starter for Gatsby integrated with Contentful CMS",
+  "name": "onlyoneaman-portfolio",
+  "version": "0.1.0",
+  "description": "Hi, This is Aman!",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EmaSuriano/gatsby-starter-mate.git"
+    "url": "git+https://github.com/onlyoneaman/portfolio.git"
   },
   "keywords": [
     "gatsby",
@@ -20,11 +20,11 @@
     "PWA",
     "portfolio"
   ],
-  "author": "Ema Suriano",
+  "author": "Aman Kumar",
   "bugs": {
-    "url": "https://github.com/EmaSuriano/gatsby-starter-mate/issues"
+    "url": "https://github.com/onlyoneaman/portfolio/issues"
   },
-  "homepage": "https://github.com/EmaSuriano/gatsby-starter-mate#readme",
+  "homepage": "https://github.com/onlyoneaman/portfolio#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
     "gatsby": "^2.32.13",

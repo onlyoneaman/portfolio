@@ -1,0 +1,41 @@
+{
+  "name": "gatsby-starter-mate",
+  "version": "0.0.0",
+  "description": "An accessible and fast portfolio starter for Gatsby integrated with Contentful CMS",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "setup": "node ./bin/setup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmaSuriano/gatsby-starter-mate.git"
+  },
+  "keywords": [
+    "gatsby",
+    "starter",
+    "contentful",
+    "PWA",
+    "portfolio"
+  ],
+  "author": "Ema Suriano",
+  "bugs": {
+    "url": "https://github.com/EmaSuriano/gatsby-starter-mate/issues"
+  },
+  "homepage": "https://github.com/EmaSuriano/gatsby-starter-mate#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "gatsby": "^2.32.13",
+    "gatsby-plugin-google-analytics": "^2.11.0",
+    "gatsby-theme-mate": "^1.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "contentful-import": "^8.1.24",
+    "inquirer": "^8.1.2"
+  }
+}

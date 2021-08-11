@@ -10,6 +10,7 @@ const plugins = [
       spaceId: SPACE_ID,
     },
   },
+  `gatsby-plugin-sass`
 ];
 
 if (ANALYTICS_ID) {

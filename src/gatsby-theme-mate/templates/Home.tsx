@@ -8,8 +8,11 @@ import Footer from 'gatsby-theme-mate/src/components/Footer';
 // Sections that will fetch data for you
 import Landing from 'gatsby-theme-mate/src/sections/Landing';
 import About from 'gatsby-theme-mate/src/sections/About';
-import Projects from 'gatsby-theme-mate/src/sections/Projects';
+import Projects from '../sections/Projects';
 import Writing from 'gatsby-theme-mate/src/sections/Writing';
+import ContactUs from '../sections/ContactUs';
+
+import '../styles/home.sass'
 
 const Home = () => (
   <Layout>
@@ -18,6 +21,7 @@ const Home = () => (
     <About />
     <Projects />
     <Writing />
+    <ContactUs />
     <Footer />
   </Layout>
 );
